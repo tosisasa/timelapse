@@ -1,0 +1,3 @@
+*/1 16 * * * cd /home/pi/Documents/Projects/timelapse;sh capture.sh
+01 17 * * * cd /home/pi/Documents/Projects/timelapse;sh create_timelapse.sh
+
